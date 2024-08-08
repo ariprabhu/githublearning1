@@ -1,3 +1,0 @@
-Creating the test3.txt file
-
-This is the test3.txt file which is modified
